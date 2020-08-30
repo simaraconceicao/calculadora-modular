@@ -1,0 +1,1 @@
+console.log(soma(parseInt(read.question("a ")),parseInt(read.question("b "))))
