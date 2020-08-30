@@ -5,4 +5,4 @@ var div = function(a,b){
 }
 
 console.log(div(parseInt(read.question("a ")),parseInt(read.question("b "))))
-module.exports.div
+module.exports = div

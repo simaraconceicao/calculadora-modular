@@ -5,4 +5,4 @@ var sub = function(a,b){
 }
 
 console.log(sub(parseInt(read.question("a ")),parseInt(read.question("b "))))
-module.exports.sub
+module.exports = sub

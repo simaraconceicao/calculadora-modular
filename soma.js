@@ -5,4 +5,4 @@ var soma = function(a,b){
 }
 
 console.log(soma(parseInt(read.question("a ")),parseInt(read.question("b "))))
-module.exports.soma
+module.exports = soma

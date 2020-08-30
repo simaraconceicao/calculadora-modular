@@ -5,4 +5,4 @@ var multi = function(a,b){
 }
 
 console.log(multi(parseInt(read.question("a ")),parseInt(read.question("b "))))
-module.exports.multi
+module.exports = multi
