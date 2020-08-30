@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://media.giphy.com/media/5tgVJmQBd2vBIm7l6B/giphy.gif" alt="Gif Yeah" width="170">
+  <img src="https://media.giphy.com/media/5tgVJmQBd2vBIm7l6B/giphy.gif" alt="Gif Yeah" width="400">
   <br>
     <br>
         Calculadora em Node.js
